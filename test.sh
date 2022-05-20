@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hi, from Kyle"
-zip
+zip -h2
